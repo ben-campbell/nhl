@@ -13,6 +13,7 @@ Towards this end we have chosen an NHL data set, scraped from [hockey-reference.
 - scrape.ipynb: scrapes [hockey-reference.com](http://hockey-reference.com) for NHL data, storing it in a MySQL database
 - leaders.ipynb: looks at historical NHL scoring leaders, normalizing player stats for league-wide scoring 
 - draft.ipynb: looks at the offensive output of NHL players compared to their draft status
+- countries.ipynb: looks at the NHL makeup by nationality over time
 
 ## Prerequisites
 
